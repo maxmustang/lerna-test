@@ -1,0 +1,19 @@
+{
+  "name": "component-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.13.2"
+  },
+  "dependencies": {
+    "component-two": "^1.0.0",
+    "debug": "^4.1.1"
+  }
+}
