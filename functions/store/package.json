@@ -1,5 +1,5 @@
 {
-  "name": "component-one",
+  "name": "store",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tape": "^4.13.2"
+    "jest": "^25.2.7"
   },
   "dependencies": {
-    "component-two": "^1.0.0",
-    "debug": "^4.1.1"
+    "lib-do-max": "^1.0.0"
   }
 }
