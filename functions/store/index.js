@@ -5,4 +5,4 @@ fakeDb.listAll().then(x => {
     return fakeDb.findInOrangeById(chosen)
 }).then(x => {
     console.log(`The destiny chooos ${x.name} the ${x.class} to DIEEEEE` )
-})
+})  

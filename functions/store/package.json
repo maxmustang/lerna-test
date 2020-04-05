@@ -9,10 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^25.2.7"
-  },
   "dependencies": {
     "lib-do-max": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^25.2.7"
   }
 }
