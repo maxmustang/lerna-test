@@ -12,4 +12,8 @@ Consiste em compartilhar modulos entre 3 'pacotes' diferentes num monorep
     npx lerna boostrap
 ```
 
+## Testando
 
+```bash
+    node packages/component-one/index.js
+```
